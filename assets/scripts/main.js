@@ -1,5 +1,7 @@
 // main.js
 
+// check for update
+
 // CONSTANTS
 const RECIPE_URLS = [
   "https://introweb.tech/assets/json/1_50-thanksgiving-side-dishes.json",
